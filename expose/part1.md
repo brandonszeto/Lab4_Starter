@@ -18,7 +18,7 @@ The following is printed by line 9:
 
 ## Question 4:
 
-The following is printed by line 13:
+The following error is thrown:
 
 > /Users/brandonszeto/Documents/Class/CSE-110/Lab4_Starter/expose/part1-question3.js:13
 >     console.log('final result: ', result);
@@ -42,7 +42,7 @@ and ends on line 11. Therefore, a ReferenceError is thrown.
 
 ## Question 5:
 
-The following is printed by line 9:
+The following error is thrown:
 
 > /Users/brandonszeto/Documents/Class/CSE-110/Lab4_Starter/expose/part1-question5.js:7
 >         result = num1 + num2;
@@ -66,7 +66,7 @@ reassign result to num1 + num2, a TypeError is thrown.
 
 ## Question 6:
 
-The following is printed by line 13:
+The following error is thrown:
 
 > /Users/brandonszeto/Documents/Class/CSE-110/Lab4_Starter/expose/part1-question5.js:7
 >         result = num1 + num2;
